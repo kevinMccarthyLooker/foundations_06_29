@@ -6,6 +6,7 @@ include: "*.dashboard" # include all the dashboards
 
 
 #test
+#test2
 
 explore: inventory_items {
   description: "Basic product and inventory information"
